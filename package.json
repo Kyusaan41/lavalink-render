@@ -1,0 +1,13 @@
+
+{
+  "name": "lavalink-replit",
+  "version": "3.0.0",
+  "main": "index.js",
+  "author": "DarrenOfficial",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "dependencies": {
+  },
+  "scripts": {
+   "start": "java -jar Lavalink.jar"
+  }
+}
